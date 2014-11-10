@@ -1,0 +1,9 @@
+c:\users\erin\documents\visual studio 2013\Projects\random_name\random_name\bin\Debug\random_name.exe.config
+c:\users\erin\documents\visual studio 2013\Projects\random_name\random_name\bin\Debug\random_name.exe
+c:\users\erin\documents\visual studio 2013\Projects\random_name\random_name\bin\Debug\random_name.pdb
+c:\users\erin\documents\visual studio 2013\Projects\random_name\random_name\obj\Debug\random_name.csprojResolveAssemblyReference.cache
+c:\users\erin\documents\visual studio 2013\Projects\random_name\random_name\obj\Debug\random_name.Form1.resources
+c:\users\erin\documents\visual studio 2013\Projects\random_name\random_name\obj\Debug\random_name.Properties.Resources.resources
+c:\users\erin\documents\visual studio 2013\Projects\random_name\random_name\obj\Debug\random_name.csproj.GenerateResource.Cache
+c:\users\erin\documents\visual studio 2013\Projects\random_name\random_name\obj\Debug\random_name.exe
+c:\users\erin\documents\visual studio 2013\Projects\random_name\random_name\obj\Debug\random_name.pdb
